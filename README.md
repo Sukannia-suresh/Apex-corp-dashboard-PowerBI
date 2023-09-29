@@ -1,4 +1,4 @@
-# Apex Corp Order Details Dashboard
+# Apex Corp Order Details live Dashboard integrated with AI
 
 ![Dashboard Preview](dashboard_preview.PNG)
 
